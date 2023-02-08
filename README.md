@@ -8,6 +8,6 @@
 
 На данный момент здесь представлены следующие структуры данных:
 1. Связные списки ([LinkedLists](https://github.com/shsv382/dataStructures/tree/main/LinkedLists))
-  - простой - SimpleLinkedList
-  - двунаправленный - DoubleLinkedList
-  - сортированный - SortedLinkedList
+  - простой - [SimpleLinkedList](https://github.com/shsv382/dataStructures/tree/main/LinkedLists/simpleLinkedList.js)
+  - двунаправленный - [DoubleLinkedList](https://github.com/shsv382/dataStructures/tree/main/LinkedLists/doubleLinkedList.js)
+  - сортированный - [SortedLinkedList](https://github.com/shsv382/dataStructures/tree/main/LinkedLists/sortedLinkedList.js)
