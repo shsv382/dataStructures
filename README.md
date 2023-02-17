@@ -11,4 +11,5 @@
   - простой - [SimpleLinkedList](https://github.com/shsv382/dataStructures/tree/main/LinkedLists/simpleLinkedList.js)
   - двунаправленный - [DoubleLinkedList](https://github.com/shsv382/dataStructures/tree/main/LinkedLists/doubleLinkedList.js)
   - сортированный - [SortedLinkedList](https://github.com/shsv382/dataStructures/tree/main/LinkedLists/sortedLinkedList.js)
-  - очередь - [Queue](https://github.com/shsv382/dataStructures/tree/main/LinkedLists/queue.js)
+
+2. Стэк ([Stack](https://github.com/shsv382/dataStructures/tree/main/Stack/stack.js))
