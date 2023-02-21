@@ -12,4 +12,10 @@
   - двунаправленный - [DoubleLinkedList](https://github.com/shsv382/dataStructures/tree/main/LinkedLists/doubleLinkedList.js)
   - сортированный - [SortedLinkedList](https://github.com/shsv382/dataStructures/tree/main/LinkedLists/sortedLinkedList.js)
 
-2. Стэк ([Stack](https://github.com/shsv382/dataStructures/tree/main/Stack/stack.js))
+2. Стэк ([Stack]((https://github.com/shsv382/dataStructures/tree/main/Stack/stack.js)))
+
+3. Очереди ([Queues](https://github.com/shsv382/dataStructures/tree/main/Queues))
+  - простая очередь - ([Queue](https://github.com/shsv382/dataStructures/tree/main/Queues/queue.js))
+  - двунаправленная очередь (дек) - ([Deque](https://github.com/shsv382/dataStructures/tree/main/Queues/deque.js))
+  - бинарная куча (очередь с приоритетами по убыванию) - ([BinaryHeapMin](https://github.com/shsv382/dataStructures/tree/main/Queues/binaryHeapMin.js))
+  - бинарная куча (очередь с приоритетами по возрастанию) - ([BinaryHeapMax](https://github.com/shsv382/dataStructures/tree/main/Queues/binaryHeapMax.js))
